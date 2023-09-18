@@ -2,7 +2,7 @@
 
 By Peter Lee, modified by Adam Saunders
 
-This repository contains code for generating a VTK surface rendering from NIFTI images to show the deformation from registering subjects to an atlas. **See [atlas_surface_rendering.ipynb)](https://github.com/MASILab/atlas_surface_rendering/blob/master/atlas_surface_rendering.ipynb for an interactive tutorial.**
+This repository contains code for generating a VTK surface rendering from NIFTI images to show the deformation from registering subjects to an atlas. **See [atlas_surface_rendering.ipynb](https://github.com/MASILab/atlas_surface_rendering/blob/master/atlas_surface_rendering.ipynb for an interactive tutorial.**
 
 ## Usage
 
